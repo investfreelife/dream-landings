@@ -1,0 +1,56 @@
+{
+  "id": 589,
+  "slug": "shino-24-589",
+  "name": "Шино 24",
+  "phone": "+7 925 6636599",
+  "phone_display": "+7 925 6636599",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/shino/152082892304/",
+  "rating": 4.4,
+  "reviews_count": 24,
+  "ratings_count": 68,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8912706,
+    "lon": 37.633213
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Шино 24 — Автосервисы в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Заправка автокондиционера",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шиномонтаж",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сезонный шиномонтаж (переобувка)",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 3,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:04:57",
+  "completeness_score": 0.9
+}

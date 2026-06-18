@@ -1,0 +1,37 @@
+{
+  "id": 586,
+  "slug": "avtobam-586",
+  "name": "Автобам",
+  "phone": "+7 495 2550285",
+  "phone_display": "+7 495 2550285",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/avtobam/60845864256/",
+  "rating": 4.4,
+  "reviews_count": 136,
+  "ratings_count": 261,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.832696,
+    "lon": 37.6423734
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Автобам — Автосервисы в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:02:55",
+  "completeness_score": 0.75
+}

@@ -1,0 +1,37 @@
+{
+  "id": 557,
+  "slug": "garage-motorservice-557",
+  "name": "Garage Motorservice",
+  "phone": "+7 929 6369393",
+  "phone_display": "+7 929 6369393",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/garage_motorservice/76714408549/",
+  "rating": 5.0,
+  "reviews_count": 77,
+  "ratings_count": 129,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7659115,
+    "lon": 37.7238791
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Garage Motorservice — Автосервисы в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:00:34",
+  "completeness_score": 0.75
+}

@@ -1,0 +1,62 @@
+{
+  "id": 592,
+  "slug": "polyarnaya-zvezda-592",
+  "name": "Полярная звезда",
+  "phone": "+7 495 7667677",
+  "phone_display": "+7 495 7667677",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/polyarnaya_zvezda/1085309058/",
+  "rating": null,
+  "reviews_count": null,
+  "ratings_count": null,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8929856,
+    "lon": 37.6406555
+  },
+  "photos_count": 0,
+  "photos_downloaded": 0,
+  "description_short": "Полярная звезда — Автосервисы в Москве",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Занятие в группе с инструктором",
+      "price": 600,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аквааэробика",
+      "price": 600,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Свободное плавание",
+      "price": 450,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 4,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:06:54",
+  "completeness_score": 0.6
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Занятие в группе с инструктором",
+    "price": 600,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Аквааэробика",
+    "price": 600,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Свободное плавание",
+    "price": 450,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]
