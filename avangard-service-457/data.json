@@ -1,0 +1,37 @@
+{
+  "id": 457,
+  "slug": "avangard-service-457",
+  "name": "Avangard service",
+  "phone": "+7 495 7408038",
+  "phone_display": "+7 495 7408038",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/avangard_servis/1792184097/",
+  "rating": 4.4,
+  "reviews_count": 27,
+  "ratings_count": 82,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6166288,
+    "lon": 37.7170799
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Avangard service — Автосервисы в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T13:50:30",
+  "completeness_score": 0.75
+}

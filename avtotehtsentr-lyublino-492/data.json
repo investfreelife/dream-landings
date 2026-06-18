@@ -1,0 +1,37 @@
+{
+  "id": 492,
+  "slug": "avtotehtsentr-lyublino-492",
+  "name": "Автотехцентр Люблино",
+  "phone": "+79912226487",
+  "phone_display": "+79912226487",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/tekhtsentr_khonda_lyublinskaya/232622758547/",
+  "rating": null,
+  "reviews_count": null,
+  "ratings_count": null,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6738003,
+    "lon": 37.7386476
+  },
+  "photos_count": 0,
+  "photos_downloaded": 0,
+  "description_short": "Автотехцентр Люблино — Автосервисы в Москве",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T13:54:54",
+  "completeness_score": 0.45
+}

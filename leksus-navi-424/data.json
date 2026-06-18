@@ -1,0 +1,74 @@
+{
+  "id": 424,
+  "slug": "leksus-navi-424",
+  "name": "Лексус-Нави",
+  "phone": "+7 916 8888000",
+  "phone_display": "+7 916 8888000",
+  "address": "Москва, 3-й Угрешский проезд, 8А с3",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/leksus_navi/1283028263/",
+  "rating": 5.0,
+  "reviews_count": 123,
+  "ratings_count": 176,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7110188,
+    "lon": 37.6945933
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Лексус-Нави — Автосервисы в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Ремонт мультимедиа Lexus и Toyota",
+      "price": 15000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Русификация Toyota Camry (Тойота Камри) XV 80",
+      "price": 25000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Русификация Toyota Sequoia 2022-2025",
+      "price": 70000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Новые навигационные карты для Lexus и Totota 2012-2015 на HDD GEN7.",
+      "price": 6000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "microSD карта навигации Lexus и Toyota",
+      "price": 10000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 6,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T13:47:41",
+  "completeness_score": 0.9
+}
