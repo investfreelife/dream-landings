@@ -1,0 +1,104 @@
+{
+  "id": 103,
+  "slug": "vest-briz-103",
+  "name": "Вест-Бриз",
+  "phone": "+7 495 3121685",
+  "phone_display": "+7 495 3121685",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/vest_briz/1101009112/",
+  "rating": 3.9,
+  "reviews_count": 37,
+  "ratings_count": 74,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6135151,
+    "lon": 37.588248
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Вест-Бриз — Автосервисы в Москве, рейтинг 3.9",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Замена масла, без защиты картера, в ДВС и масляного фильтра",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена масла в ДВС и масляного фильтра с снятием и установкой защиты картера",
+      "price": 800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Визуальная диагностика автомобиля на подъемнике",
+      "price": 300,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Фильтр топливный (в топливном баке)",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Фильтр воздушный (в моторном отсеке)",
+      "price": 200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Фильтр салонный (в вещевом ящике)",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена передних тормозных колодок",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена передних тормозных дисков",
+      "price": 1200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена тормозной жидкости",
+      "price": 800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стоимость замены 4 колёс в сборе",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 11,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T01:12:14",
+  "completeness_score": 0.75
+}

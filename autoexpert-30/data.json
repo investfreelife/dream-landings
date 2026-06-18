@@ -1,0 +1,44 @@
+{
+  "id": 30,
+  "slug": "autoexpert-30",
+  "name": "Autoexpert",
+  "phone": "+7 499 7220012",
+  "phone_display": "+7 499 7220012",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/mvo_servis/31500729050/",
+  "rating": 4.7,
+  "reviews_count": 167,
+  "ratings_count": 334,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6691246,
+    "lon": 37.7804432
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Autoexpert — Автосервисы в Москве, рейтинг 4.7",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Nokian Nordman 7 205/55 R16 94T XL Шипованные",
+      "price": 6600,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 1,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T01:06:37",
+  "completeness_score": 0.75
+}

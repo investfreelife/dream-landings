@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ремонт двери с разборкой обшивки",
+    "price": 5000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена двери с переборкой",
+    "price": 3000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Заправка кондиционера",
+    "price": 2000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена дверной ручки",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена троса привода замка капота",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Электротехнические работы, 1 час",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Регулировка или ремонт замков, 1 шт.",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Снятие и установка обшивки двери, 1 шт.",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена троса воздушной заслонки",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена троса сцепления",
+    "price": 800,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

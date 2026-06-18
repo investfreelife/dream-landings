@@ -1,0 +1,37 @@
+{
+  "id": 358,
+  "slug": "akpp-03-358",
+  "name": "АКПП-03",
+  "phone": "+7 495 0218748",
+  "phone_display": "+7 495 0218748",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/akpp03/1045713571/",
+  "rating": 4.7,
+  "reviews_count": 282,
+  "ratings_count": 515,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.861164,
+    "lon": 37.5807792
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "АКПП-03 — Автосервисы в Москве, рейтинг 4.7",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T03:03:50",
+  "completeness_score": 0.6
+}

@@ -1,0 +1,37 @@
+{
+  "id": 181,
+  "slug": "autobody-181",
+  "name": "AutoBody",
+  "phone": "+7 495 7495538",
+  "phone_display": "+7 495 7495538",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/autobody_avtobodi/1031714940/",
+  "rating": 4.2,
+  "reviews_count": 6,
+  "ratings_count": 12,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7224164,
+    "lon": 37.6913189
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "AutoBody — Автосервисы в Москве, рейтинг 4.2",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T01:18:15",
+  "completeness_score": 0.75
+}

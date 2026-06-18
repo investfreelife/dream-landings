@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ремонт BMW",
+    "price": 5500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Ремонт AUDI",
+    "price": 5500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Ремонт УАЗ",
+    "price": 3900,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

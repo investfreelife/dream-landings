@@ -1,0 +1,37 @@
+{
+  "id": 322,
+  "slug": "vernum-auto-322",
+  "name": "Vernum Auto",
+  "phone": "+7 (499) 649-85-06",
+  "phone_display": "+7 (499) 649-85-06",
+  "address": "Енисейская улица, 36 c 9",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/vernum_auto/223714168629/",
+  "rating": 4.4,
+  "reviews_count": 345,
+  "ratings_count": 572,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8767252,
+    "lon": 37.6691955
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Vernum Auto — Автосервисы в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:59:26",
+  "completeness_score": 0.6
+}

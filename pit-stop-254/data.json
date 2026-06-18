@@ -1,0 +1,37 @@
+{
+  "id": 254,
+  "slug": "pit-stop-254",
+  "name": "Pit Stop",
+  "phone": "+7 926 9497471",
+  "phone_display": "+7 926 9497471",
+  "address": "Троицкая улица, 5",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/pit_stop/36812619555/",
+  "rating": 4.9,
+  "reviews_count": 27,
+  "ratings_count": 31,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7749405,
+    "lon": 37.6207361
+  },
+  "photos_count": 11,
+  "photos_downloaded": 11,
+  "description_short": "Pit Stop — Автосервисы в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:44:21",
+  "completeness_score": 0.6
+}

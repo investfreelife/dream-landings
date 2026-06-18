@@ -1,0 +1,37 @@
+{
+  "id": 351,
+  "slug": "shinomaniya-351",
+  "name": "Шиномания",
+  "phone": "+7 962 9105331",
+  "phone_display": "+7 962 9105331",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/shinomaniya/1675401132/",
+  "rating": 4.8,
+  "reviews_count": 107,
+  "ratings_count": 179,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8341451,
+    "lon": 37.3486038
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Шиномания — Автосервисы в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T03:02:30",
+  "completeness_score": 0.75
+}

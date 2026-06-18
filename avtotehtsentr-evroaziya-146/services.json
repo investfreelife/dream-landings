@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Техническое обслуживание (ТО)",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Шиномонтаж",
+    "price": 650,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Компьютерная диагностика",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Поиск и устранение неисправности в проводке",
+    "price": 500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

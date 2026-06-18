@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Сезонная замена шин, шиномонтаж",
+    "price": 2800,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Ремонт боковых порезов",
+    "price": 2000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Хранение колёс, шин",
+    "price": 600,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": 303,
+  "slug": "avto-kd-303",
+  "name": "Авто КД",
+  "phone": "+7 925 7446986",
+  "phone_display": "+7 925 7446986",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/avto_kd/191753793992/",
+  "rating": 4.8,
+  "reviews_count": 65,
+  "ratings_count": 185,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6993374,
+    "lon": 37.8057706
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Авто КД — Автосервисы в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:53:30",
+  "completeness_score": 0.75
+}

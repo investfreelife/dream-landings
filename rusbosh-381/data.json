@@ -1,0 +1,37 @@
+{
+  "id": 381,
+  "slug": "rusbosh-381",
+  "name": "Русбош",
+  "phone": "+7 495 3585147",
+  "phone_display": "+7 495 3585147",
+  "address": "Ставропольская улица, вл33",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/refit_avto/1308577883/",
+  "rating": 4.0,
+  "reviews_count": 93,
+  "ratings_count": 182,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.682339,
+    "lon": 37.7729964
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Русбош — Автосервисы в Москве, рейтинг 4.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T03:11:29",
+  "completeness_score": 0.6
+}

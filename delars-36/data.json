@@ -1,0 +1,98 @@
+{
+  "id": 36,
+  "slug": "delars-36",
+  "name": "DeLars",
+  "phone": "+7 968 5587555",
+  "phone_display": "+7 968 5587555",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/delars/1150121866/",
+  "rating": 4.6,
+  "reviews_count": 99,
+  "ratings_count": 215,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.762263,
+    "lon": 37.7281317
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "DeLars — Автосервисы в Москве, рейтинг 4.6",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Ремонт двери с разборкой обшивки",
+      "price": 5000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена двери с переборкой",
+      "price": 3000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Заправка кондиционера",
+      "price": 2000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена дверной ручки",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена троса привода замка капота",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Электротехнические работы, 1 час",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Регулировка или ремонт замков, 1 шт.",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Снятие и установка обшивки двери, 1 шт.",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена троса воздушной заслонки",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена троса сцепления",
+      "price": 800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 10,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T01:09:18",
+  "completeness_score": 0.75
+}

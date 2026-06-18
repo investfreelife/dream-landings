@@ -1,0 +1,37 @@
+{
+  "id": 321,
+  "slug": "black-morgan-workshop-321",
+  "name": "Black Morgan Workshop",
+  "phone": "+7 965 2440776",
+  "phone_display": "+7 965 2440776",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/blackmorganworkshop/194352775752/",
+  "rating": 4.8,
+  "reviews_count": 61,
+  "ratings_count": 157,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8421309,
+    "lon": 37.4233218
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Black Morgan Workshop — Автосервисы в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:57:53",
+  "completeness_score": 0.6
+}

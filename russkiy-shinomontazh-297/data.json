@@ -1,0 +1,56 @@
+{
+  "id": 297,
+  "slug": "russkiy-shinomontazh-297",
+  "name": "Русский шиномонтаж",
+  "phone": "+7 909 6373244",
+  "phone_display": "+7 909 6373244",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/russkiy_shinomontazh/1403714420/",
+  "rating": null,
+  "reviews_count": null,
+  "ratings_count": null,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8117639,
+    "lon": 37.5378419
+  },
+  "photos_count": 0,
+  "photos_downloaded": 0,
+  "description_short": "Русский шиномонтаж — Автосервисы в Москве",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Сезонная замена шин, шиномонтаж",
+      "price": 2800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ремонт боковых порезов",
+      "price": 2000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Хранение колёс, шин",
+      "price": 600,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 3,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:52:02",
+  "completeness_score": 0.45
+}

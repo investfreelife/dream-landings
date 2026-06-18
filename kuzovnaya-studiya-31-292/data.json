@@ -1,0 +1,56 @@
+{
+  "id": 292,
+  "slug": "kuzovnaya-studiya-31-292",
+  "name": "Кузовная Студия 31",
+  "phone": "+7 495 9894431",
+  "phone_display": "+7 495 9894431",
+  "address": "Южнопортовая улица, 15",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/4kh4_studiya_31/181656737787/",
+  "rating": 5.0,
+  "reviews_count": 105,
+  "ratings_count": 311,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7068978,
+    "lon": 37.6999227
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Кузовная Студия 31 — Автосервисы в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Ремонт BMW",
+      "price": 5500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ремонт AUDI",
+      "price": 5500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ремонт УАЗ",
+      "price": 3900,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 3,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:50:24",
+  "completeness_score": 0.9
+}

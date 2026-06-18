@@ -1,0 +1,50 @@
+{
+  "id": 192,
+  "slug": "avtoklimatcom-192",
+  "name": "Автоклимат.com",
+  "phone": "+7-967-130-90-90",
+  "phone_display": "+7-967-130-90-90",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/avtoklimat/237940811537/",
+  "rating": 5.0,
+  "reviews_count": 151,
+  "ratings_count": 274,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6577234,
+    "lon": 37.6236313
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Автоклимат.com — Автосервисы в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Ремонт трубок кондиционера",
+      "price": 2000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Заправка автокондиционера",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 2,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:42:42",
+  "completeness_score": 0.9
+}

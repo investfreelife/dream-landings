@@ -1,0 +1,37 @@
+{
+  "id": 380,
+  "slug": "tsar-gory-380",
+  "name": "Царь Горы",
+  "phone": "+7 495 2086951",
+  "phone_display": "+7 495 2086951",
+  "address": "Москва, Поклонная улица, 11 с2",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/tsar_gory/1354061501/",
+  "rating": 4.4,
+  "reviews_count": 461,
+  "ratings_count": 959,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7340977,
+    "lon": 37.5246741
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Царь Горы — Автосервисы в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T03:10:01",
+  "completeness_score": 0.6
+}

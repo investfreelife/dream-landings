@@ -1,0 +1,37 @@
+{
+  "id": 272,
+  "slug": "forpost-272",
+  "name": "Форпост",
+  "phone": "+7 499 2133052",
+  "phone_display": "+7 499 2133052",
+  "address": "Алтуфьевское шоссе (дублёр), 52",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/forpost_servis/1048357157/",
+  "rating": 4.5,
+  "reviews_count": 490,
+  "ratings_count": 1179,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8780209,
+    "lon": 37.5876725
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Форпост — Автосервисы в Москве, рейтинг 4.5",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:45:37",
+  "completeness_score": 0.75
+}
