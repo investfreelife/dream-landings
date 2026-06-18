@@ -1,4 +1,4 @@
-name: Validate landings
+name: Validate parser storage
 
 on:
   push:
@@ -12,68 +12,44 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 1) HTML существует и не пустой
-      - name: Check every variant has index.html
+      # Каждая папка лида должна иметь data.json
+      - name: Each <slug>/ has data.json
         run: |
           set -e
           fail=0
-          for dir in */*/; do
-            # Пропускаем .github и системное
-            case "$dir" in .github/*|node_modules/*|.git/*) continue ;; esac
-            if [ ! -f "$dir/index.html" ]; then
-              echo "::error::Missing index.html in $dir"
+          for d in */; do
+            case "$d" in .github/*|node_modules/*) continue ;; esac
+            if [ ! -f "$d/data.json" ]; then
+              echo "::error::Missing $d/data.json"
               fail=1
             fi
           done
           exit $fail
 
-      # 2) HTML — валидный (минимум: doctype, <title>, <meta charset>)
-      - name: Quick HTML sanity
-        run: |
-          set -e
-          fail=0
-          for f in $(find . -name 'index.html' -not -path './.*' -not -path './node_modules/*'); do
-            grep -qi '<!doctype html>' "$f"     || { echo "::error::$f: no doctype"; fail=1; }
-            grep -qi '<meta charset' "$f"       || { echo "::error::$f: no meta charset"; fail=1; }
-            grep -qi '<title>'        "$f"     || { echo "::error::$f: no <title>"; fail=1; }
-          done
-          exit $fail
-
-      # 3) Запрещаем абсолютные ссылки на наши собственные хосты
-      # (лендинг должен быть перемещаемым)
-      - name: No hardcoded hosts inside landings
-        run: |
-          set -e
-          fail=0
-          for f in $(find . -name '*.html' -not -path './.*'); do
-            if grep -qE 'tmzqirzyvmnkzfmotlcj\.supabase\.co|metallportal-crm2\.vercel\.app' "$f"; then
-              echo "::error::$f: hardcoded host (use relative paths)"
-              fail=1
-            fi
-          done
-          exit $fail
-
-      # 4) Картинки — только webp (опционально предупреждение)
-      - name: Warn about non-webp photos
-        continue-on-error: true
-        run: |
-          for f in $(find . -path '*/assets/photos/*' -type f); do
-            case "$f" in
-              *.webp) ;;
-              *) echo "::warning::$f: should be .webp" ;;
-            esac
-          done
-
-      # 5) Файлы не больше 300 KB
-      - name: No bloated assets
+      # Все фото — webp, до 250 KB
+      - name: Photos are webp ≤250KB
         run: |
           set -e
           fail=0
           while IFS= read -r f; do
+            case "$f" in *.webp) ;; *) echo "::error::$f not webp"; fail=1; continue ;; esac
             sz=$(stat -c%s "$f" 2>/dev/null || stat -f%z "$f")
-            if [ "$sz" -gt 307200 ]; then
-              echo "::error::$f is $sz bytes (>300KB) — оптимизируй"
+            if [ "$sz" -gt 256000 ]; then
+              echo "::error::$f is $sz bytes (>250KB)"
               fail=1
             fi
-          done < <(find . -type f \( -name '*.html' -o -name '*.webp' -o -name '*.jpg' -o -name '*.png' -o -name '*.css' -o -name '*.js' \) -not -path './.*')
+          done < <(find . -path '*/photos/*' -type f -not -path './.*')
+          exit $fail
+
+      # JSON-файлы валидны
+      - name: JSON files are valid
+        run: |
+          set -e
+          fail=0
+          for f in $(find . -name '*.json' -not -path './.*'); do
+            if ! python3 -c "import json; json.load(open('$f'))" 2>/dev/null; then
+              echo "::error::$f invalid JSON"
+              fail=1
+            fi
+          done
           exit $fail

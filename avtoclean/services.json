@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Удаление вмятин без покраски",
+    "price": 10000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Влажная уборка салона",
+    "price": 600,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Химчистка, 1 деталь",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Полировка кузова",
+    "price": 12000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Керамическое покрытие Ceramic PRO, 1+1",
+    "price": 22000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Керамическое покрытие салона GYEON",
+    "price": 13000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Жидкое стекло Willson",
+    "price": 16000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Стандартная мойка (кузов+коврики)",
+    "price": 600,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Комплексная мойка",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "НАНО МОЙКА Koch",
+    "price": 1300,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]
