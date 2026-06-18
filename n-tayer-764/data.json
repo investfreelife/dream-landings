@@ -1,0 +1,37 @@
+{
+  "id": 764,
+  "slug": "n-tayer-764",
+  "name": "Н-Тайер",
+  "phone": "+7 926 7098821",
+  "phone_display": "+7 926 7098821",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Шиномонтажи",
+  "yandex_url": "https://yandex.ru/maps/org/n_tayyer/76083801568/",
+  "rating": 4.7,
+  "reviews_count": 27,
+  "ratings_count": 92,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7588898,
+    "lon": 37.7333808
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Н-Тайер — Шиномонтажи в Москве, рейтинг 4.7",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T16:15:31",
+  "completeness_score": 0.75
+}

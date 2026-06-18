@@ -1,0 +1,98 @@
+{
+  "id": 763,
+  "slug": "wheels-control-763",
+  "name": "Wheels Control",
+  "phone": "+7 (925) 397-38-62",
+  "phone_display": "+7 (925) 397-38-62",
+  "address": "Москва, Севастопольский проспект, 89",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Шиномонтажи",
+  "yandex_url": "https://yandex.ru/maps/org/avtorus/1062537722/",
+  "rating": 4.8,
+  "reviews_count": 4206,
+  "ratings_count": 12312,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6447099,
+    "lon": 37.5610081
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Wheels Control — Шиномонтажи в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "АНТИКОР БИТУМ ЧЕРН 1000 МЛ/ 08920722010531 WURTH 0892072201 WURTH 0892072201",
+      "price": 1113,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Антикор для обработки днища под пистолет 1л PRIM BODY PRIM ПРИМБОДИ1",
+      "price": 880,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аэрозольный антикор. состав Body 900 (кор.) (0,4л) BODY 5130000001",
+      "price": 866,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аэрозольный антикор. состав Body 950 (черн.) (0,4л) BODY 5100200000",
+      "price": 692,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аэрозольный антикор. состав Body 951 Autoflex (сер.) (0,4л) BODY 5100700030",
+      "price": 692,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аэрозольный антикор. состав Body 951 Autoflex (черн.) (0,4л) BODY 5100200030",
+      "price": 691,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аэрозольный антикор. состав Body 950 (сер.) (0,4л) BODY 5100700000",
+      "price": 689,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аэрозольный антикор. состав Body 950 (бел.) (0,4л) BODY 5100100000",
+      "price": 689,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Антикор для обработки днища 650 мл PRIM BODY ПРИМБОДИА",
+      "price": 623,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аэрозольный антикор. состав HB BODY 650 (сер.) (0,4л) BODY 5100700090",
+      "price": 604,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 10,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T16:13:05",
+  "completeness_score": 0.9
+}

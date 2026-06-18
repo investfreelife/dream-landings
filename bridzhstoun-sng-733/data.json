@@ -1,0 +1,37 @@
+{
+  "id": 733,
+  "slug": "bridzhstoun-sng-733",
+  "name": "Бриджстоун-СНГ",
+  "phone": "+7 495 9894710",
+  "phone_display": "+7 495 9894710",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Шиномонтажи",
+  "yandex_url": "https://yandex.ru/maps/org/bridzhstoun_sng/154210115701/",
+  "rating": null,
+  "reviews_count": 0,
+  "ratings_count": 15,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.622706,
+    "lon": 37.6042609
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Бриджстоун-СНГ — Шиномонтажи в Москве",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T16:11:08",
+  "completeness_score": 0.4
+}
