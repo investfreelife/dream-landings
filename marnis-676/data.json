@@ -1,0 +1,104 @@
+{
+  "id": 676,
+  "slug": "marnis-676",
+  "name": "Марнис",
+  "phone": "+7 926 9619387",
+  "phone_display": "+7 926 9619387",
+  "address": "проспект Мира, 125 с5",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/marnis/59850791287/",
+  "rating": 4.3,
+  "reviews_count": 13,
+  "ratings_count": 16,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8304141,
+    "lon": 37.6476515
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Марнис — Автосервисы в Москве, рейтинг 4.3",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Замена масла в двигателе",
+      "price": 2430,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена тормозных колодок",
+      "price": 2700,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена приводного ремня",
+      "price": 5400,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена сцепления (замена диска сцепления, выжимного подшипника, цилиндров сцепления)",
+      "price": 24000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ремонт системы охлаждения (течь охлаждающей жидкости, закипание авто, промывка радиатора)",
+      "price": 2700,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Очистка и фотографирование номера двигателя",
+      "price": 5400,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сход-развал",
+      "price": 4500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Комплексная диагностика автомобиля",
+      "price": 5400,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Диагностика и ремонт автоэлектрики",
+      "price": 2700,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Заправка кондиционера",
+      "price": 4050,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 11,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:44:54",
+  "completeness_score": 0.9
+}

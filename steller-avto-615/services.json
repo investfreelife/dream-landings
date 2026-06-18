@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Замена бензинового двигателя",
+    "price": 20000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена дизельного двигателя",
+    "price": 18000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена маслосъёмных колпачков",
+    "price": 12000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена прокладки ГБЦ",
+    "price": 12000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена прокладки выпускного коллектора",
+    "price": 3500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена впускного коллектора",
+    "price": 2500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена прокладки поддона",
+    "price": 2500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена опоры двигателя",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена прокладки клапанной крышки",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена масла в двигателе",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

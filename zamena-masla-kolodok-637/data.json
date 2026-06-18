@@ -1,0 +1,37 @@
+{
+  "id": 637,
+  "slug": "zamena-masla-kolodok-637",
+  "name": "Замена масла колодок",
+  "phone": "89309442599",
+  "phone_display": "89309442599",
+  "address": "Москва, Анадырский проезд, 12 с2",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/avtomatik/150592044822/",
+  "rating": 5.0,
+  "reviews_count": 37,
+  "ratings_count": 47,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8677403,
+    "lon": 37.6907682
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Замена масла колодок — Автосервисы в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:36:41",
+  "completeness_score": 0.75
+}

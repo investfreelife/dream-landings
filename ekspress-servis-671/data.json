@@ -1,0 +1,37 @@
+{
+  "id": 671,
+  "slug": "ekspress-servis-671",
+  "name": "Экспресс Сервис",
+  "phone": "+7 495 4908591",
+  "phone_display": "+7 495 4908591",
+  "address": "Москва, улица Свободы, 99 с1",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/prolodzhiks/40553962591/",
+  "rating": 5.0,
+  "reviews_count": 30,
+  "ratings_count": 65,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8719105,
+    "lon": 37.4391859
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Экспресс Сервис — Автосервисы в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:43:04",
+  "completeness_score": 0.75
+}

@@ -1,0 +1,37 @@
+{
+  "id": 670,
+  "slug": "avto-ass-670",
+  "name": "Авто-АСС",
+  "phone": "+7 499 1735809",
+  "phone_display": "+7 499 1735809",
+  "address": "Москва, Саратовская улица, 19 с5",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/avto_ass/194655737474/",
+  "rating": 4.9,
+  "reviews_count": 67,
+  "ratings_count": 150,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7152749,
+    "lon": 37.7372241
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Авто-АСС — Автосервисы в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:40:57",
+  "completeness_score": 0.75
+}

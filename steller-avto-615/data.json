@@ -1,0 +1,98 @@
+{
+  "id": 615,
+  "slug": "steller-avto-615",
+  "name": "Стеллер Авто",
+  "phone": "+7 (916) 55-99-77-3",
+  "phone_display": "+7 (916) 55-99-77-3",
+  "address": "Москва, 2-й Вязовский проезд, 22",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/steller_avto/162847092823/",
+  "rating": 4.9,
+  "reviews_count": 76,
+  "ratings_count": 153,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7163212,
+    "lon": 37.7658279
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Стеллер Авто — Автосервисы в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Замена бензинового двигателя",
+      "price": 20000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена дизельного двигателя",
+      "price": 18000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена маслосъёмных колпачков",
+      "price": 12000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена прокладки ГБЦ",
+      "price": 12000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена прокладки выпускного коллектора",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена впускного коллектора",
+      "price": 2500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена прокладки поддона",
+      "price": 2500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена опоры двигателя",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена прокладки клапанной крышки",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена масла в двигателе",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 10,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T15:34:58",
+  "completeness_score": 0.9
+}
