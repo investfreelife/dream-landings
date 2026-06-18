@@ -1,0 +1,104 @@
+{
+  "id": 304,
+  "slug": "ayron-dyuk-304",
+  "name": "Айрон Дьюк",
+  "phone": "+7 977 2512552",
+  "phone_display": "+7 977 2512552",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Детейлинг и реставрация классических авто",
+  "yandex_url": "https://yandex.ru/maps/org/ayron_dyuk/184819828669/",
+  "rating": 4.9,
+  "reviews_count": 174,
+  "ratings_count": 363,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8245809,
+    "lon": 37.7727456
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Iron Duke Classics — детейлинг, ремонт и реставрация классических и американских авто в Москве",
+  "description_long": "Iron Duke Classics — студия для классических и американских автомобилей: детейлинг, кузовной ремонт, реставрация, обслуживание. Рейтинг 4.9 на Яндекс.Картах, 174 отзывов. Атмосфера настоящего американского гаража.",
+  "social": {},
+  "services": [
+    {
+      "name": "Бесконтактная мойка (кузов, коврики)",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Комплекс работ для 4 стандартных колес с балансировкой, диаметр до 19",
+      "price": 2200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Комп диагностика электронных систем ДВС",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена глушителя",
+      "price": 5000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Диагностика ходовой",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена колодок",
+      "price": 5000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Комлексная мойка ( кузов,пороги,стекла,коврики,протирка пластика салона)",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Экспресс мойка кузова",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена масла в ДВС",
+      "price": 2000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сход-развал (развал-схождение) 3D Легковой автомобиль",
+      "price": 3000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 11,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T02:56:21",
+  "completeness_score": 0.9
+}
