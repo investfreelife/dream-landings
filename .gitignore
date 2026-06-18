@@ -1,0 +1,7 @@
+# Локальные временные файлы агентов
+/tmp_build/
+*.psd
+*.ai
+*.orig
+.DS_Store
+node_modules/
