@@ -1,0 +1,37 @@
+{
+  "id": 494,
+  "slug": "avtoban-494",
+  "name": "Автобан",
+  "phone": "+79036145511",
+  "phone_display": "+79036145511",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/avtoban/189588428375/",
+  "rating": null,
+  "reviews_count": 5,
+  "ratings_count": 28,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6713606,
+    "lon": 37.7387613
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Автобан — Автосервисы в Москве",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T14:17:11",
+  "completeness_score": 0.55
+}

@@ -1,0 +1,37 @@
+{
+  "id": 513,
+  "slug": "zimwerk-513",
+  "name": "Zimwerk",
+  "phone": "+7 (968) 738-34-18",
+  "phone_display": "+7 (968) 738-34-18",
+  "address": "Москва, Рябиновая улица, 69 с5",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/avtoservis_zimverk/214932909805/",
+  "rating": 4.9,
+  "reviews_count": 39,
+  "ratings_count": 48,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.679124,
+    "lon": 37.4363813
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Zimwerk — Автосервисы в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T14:23:54",
+  "completeness_score": 0.75
+}

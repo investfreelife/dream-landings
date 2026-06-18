@@ -1,0 +1,37 @@
+{
+  "id": 496,
+  "slug": "codeecu-496",
+  "name": "CodeECU",
+  "phone": "+79958983323",
+  "phone_display": "+79958983323",
+  "address": "Смольная улица, 6",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/codeecu/96881682250/",
+  "rating": null,
+  "reviews_count": 0,
+  "ratings_count": 0,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8464069,
+    "lon": 37.5003881
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "CodeECU — Автосервисы в Москве",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-18T14:19:40",
+  "completeness_score": 0.4
+}
