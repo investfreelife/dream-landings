@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Мелирование на фольгу (длиные)",
+    "price": 2300,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Мелирование на фольгу (короткие)",
+    "price": 1700,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание волос (короткие)",
+    "price": 1200,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Укладка волос феном (средние)",
+    "price": 800,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Аппаратный маникюр",
+    "price": 800,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

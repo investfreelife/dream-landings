@@ -1,0 +1,68 @@
+{
+  "id": 2413,
+  "slug": "smayl-2413",
+  "name": "Смайл",
+  "phone": "+7 495 3580845",
+  "phone_display": "+7 495 3580845",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/smayl/1089112144/",
+  "rating": 4.5,
+  "reviews_count": 55,
+  "ratings_count": 124,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6698199,
+    "lon": 37.758894
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Смайл — Салоны красоты в Москве, рейтинг 4.5",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Мелирование на фольгу (длиные)",
+      "price": 2300,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мелирование на фольгу (короткие)",
+      "price": 1700,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание волос (короткие)",
+      "price": 1200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Укладка волос феном (средние)",
+      "price": 800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аппаратный маникюр",
+      "price": 800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 5,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T11:00:51",
+  "completeness_score": 0.9
+}
