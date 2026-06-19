@@ -1,0 +1,104 @@
+{
+  "id": 2480,
+  "slug": "klub-18-2480",
+  "name": "Клуб 18",
+  "phone": "+7 495 7591030",
+  "phone_display": "+7 495 7591030",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/club_18_fight_fitness/1098808817/",
+  "rating": 4.9,
+  "reviews_count": 468,
+  "ratings_count": 1188,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8434383,
+    "lon": 37.3526613
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Клуб 18 — Салоны красоты в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Блок 5 персональных тренировок | Нагатинская",
+      "price": 10000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Блок 10 персональных тренировок | Нагатинская",
+      "price": 17000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Безлимит на все единоборства + тренажерный зал 24/7 | Нагатинская",
+      "price": 11000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Безлимит на все единоборства + тренажерный зал 24/7 | Нагатинская",
+      "price": 25000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Безлимит на все единоборства + тренажерный зал 24/7 | Нагатинская",
+      "price": 80000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сплит тренировка | Нагатинская",
+      "price": 2500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Акробатика | Нагатинская",
+      "price": 1300,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Для начинающих | Нагатинская",
+      "price": 7000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Другие дисциплины | Нагатинская",
+      "price": 1300,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Индивидуальные занятия | Нагатинская",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 11,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T12:04:25",
+  "completeness_score": 0.9
+}
