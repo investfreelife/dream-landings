@@ -1,0 +1,98 @@
+{
+  "id": 1800,
+  "slug": "akademiya-krasoty-1800",
+  "name": "Академия красоты",
+  "phone": "+7 499 1378772",
+  "phone_display": "+7 499 1378772",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/akademiya_krasoty/226640428707/",
+  "rating": 5.0,
+  "reviews_count": 99,
+  "ratings_count": 170,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6967794,
+    "lon": 37.5543564
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Академия красоты — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Парикмахер широкого профиля 180ак.ч (с выдачей диплома)",
+      "price": 62000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Колористика для парикмахеров 80ак.ч(базовая программа, с выдачей свидетельства)",
+      "price": 54000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Парикмахерское-универсал 180ак.ч (с выдачей диплома)",
+      "price": 53000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Барбер. Мужской мастер 60ак.ч (1-1,5 мес обучения)",
+      "price": 45000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Косметология",
+      "price": 26000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "\"Парикмахерское дело\" (с выдачей сертификата)",
+      "price": 25000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "\"Маникюр и педикюр\"",
+      "price": 14500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Наращивание ресниц",
+      "price": 10000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "\"Дизайн ногтей\"",
+      "price": 4000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 10,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T06:57:37",
+  "completeness_score": 0.9
+}

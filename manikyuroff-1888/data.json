@@ -1,0 +1,37 @@
+{
+  "id": 1888,
+  "slug": "manikyuroff-1888",
+  "name": "Маникюрофф",
+  "phone": "+7 985 7658437",
+  "phone_display": "+7 985 7658437",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/manikyuroff/1298443585/",
+  "rating": 5.0,
+  "reviews_count": 643,
+  "ratings_count": 883,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7392252,
+    "lon": 37.5870754
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Маникюрофф — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T07:01:01",
+  "completeness_score": 0.75
+}
