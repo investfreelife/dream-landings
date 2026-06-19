@@ -1,0 +1,37 @@
+{
+  "id": 2046,
+  "slug": "diana-2046",
+  "name": "Диана",
+  "phone": "+7 495 3469101",
+  "phone_display": "+7 495 3469101",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/diana/38601464435/",
+  "rating": 5.0,
+  "reviews_count": 95,
+  "ratings_count": 118,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6474877,
+    "lon": 37.761265
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Диана — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T07:46:15",
+  "completeness_score": 0.75
+}
