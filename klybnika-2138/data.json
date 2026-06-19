@@ -1,0 +1,74 @@
+{
+  "id": 2138,
+  "slug": "klybnika-2138",
+  "name": "Klybnika",
+  "phone": "+7 968 4044040",
+  "phone_display": "+7 968 4044040",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/klubnika/83702568460/",
+  "rating": 4.8,
+  "reviews_count": 21,
+  "ratings_count": 25,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7682186,
+    "lon": 37.6074672
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Klybnika — Салоны красоты в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Снятие + комби маникюр + Выравнивание + покрытие",
+      "price": 3000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Наращивание + покрытие гель лаком",
+      "price": 4000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Обработка стопы ( Подо диск )",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Комби маникюр + Выравнивание + покрытие гель лаком",
+      "price": 2800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Снятие + Комби педикюр + покрытие гель лаком",
+      "price": 2800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Массаж на руки",
+      "price": 1,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 6,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T08:14:44",
+  "completeness_score": 0.9
+}
