@@ -1,0 +1,98 @@
+{
+  "id": 1958,
+  "slug": "4-sezona-1958",
+  "name": "4 сезона",
+  "phone": "+7 495 3435293",
+  "phone_display": "+7 495 3435293",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/4_sezona/1139566512/",
+  "rating": 5.0,
+  "reviews_count": 328,
+  "ratings_count": 606,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6458993,
+    "lon": 37.7382844
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "4 сезона — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Женская стрижка",
+      "price": 1600,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Дизайн: КОШКА (все ногти)",
+      "price": 600,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Комплекс 3: снятие покрытия + аппаратно-комбинированный маникюр + укрепление акригелем + покрытие гель-лак + топовое покрытие",
+      "price": 3700,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Комплекс 1: снятие + аппаратно-комбинированный маникюр + укрепление + покрытие",
+      "price": 2900,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Аиртач",
+      "price": 5800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стрижка детская",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ламинирование бровей",
+      "price": 2000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стрижка мужская",
+      "price": 1400,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание в один тон",
+      "price": 3700,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 10,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T07:14:46",
+  "completeness_score": 0.9
+}
