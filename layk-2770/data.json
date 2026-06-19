@@ -1,0 +1,37 @@
+{
+  "id": 2770,
+  "slug": "layk-2770",
+  "name": "Лайк",
+  "phone": "+79652835970",
+  "phone_display": "+79652835970",
+  "address": "Москва, Малая Пироговская улица, 13 с1",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/layk/209351808365/",
+  "rating": 4.7,
+  "reviews_count": 88,
+  "ratings_count": 144,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7292987,
+    "lon": 37.5707053
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Лайк — Салоны красоты в Москве, рейтинг 4.7",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T16:44:27",
+  "completeness_score": 0.75
+}
