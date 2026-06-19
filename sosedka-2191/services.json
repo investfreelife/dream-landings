@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Крылья BBQ",
+    "price": 550,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Типа пицца Маргарита / Острая с беконом",
+    "price": 490,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Гренки / Гренки острые",
+    "price": 390,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Тарелка под водочку",
+    "price": 1300,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Хот-дог",
+    "price": 490,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Пивная тарелка",
+    "price": 1300,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Стрипсы куриные",
+    "price": 490,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Сырные палочки",
+    "price": 450,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бургер \"Соседский\"",
+    "price": 850,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бургер \"Грязная хрюша\"",
+    "price": 850,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бургер \"Куриный карри\"",
+    "price": 850,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бургер \"Грандчиз\"",
+    "price": 850,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бургер \"Отсоседский\"",
+    "price": 950,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Классика (бульон + сметана)",
+    "price": 590,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Пельменара",
+    "price": 750,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Пацанские пельмеши с перцем",
+    "price": 590,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Отжаренные пельмешки",
+    "price": 650,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Фри",
+    "price": 390,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Фри \"По-соседски\"",
+    "price": 550,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Ароматный мини картофель",
+    "price": 390,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Курица карри с кус кусом",
+    "price": 850,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Птитим с утомлёной свининой",
+    "price": 850,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Куриное филе в беконе с мини картофелем",
+    "price": 850,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Пиво Б/А в Ассортименте",
+    "price": 350,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Авторские лимонады",
+    "price": 350,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Чай: Чёрный / Зелёный",
+    "price": 300,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Салат \"Соседский\"",
+    "price": 490,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Боул с куриным филе и кус кусом",
+    "price": 690,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Салат \"Пармезаныч\"",
+    "price": 530,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Безалкогольные и другие напитки",
+    "price": 200,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Глинтвейн / Айс Глинтвейн",
+    "price": 390,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бутер с селёдкой и зелёным соусом из картофеля",
+    "price": 390,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бутер с беконом и кремом из батата",
+    "price": 390,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Колбаски куриные / свиные (2 шт) на гриле",
+    "price": 750,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Колбаска соседская",
+    "price": 590,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Вяленая говядина в ассортименте",
+    "price": 590,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Чипсы картофельные крафтовые в ассортименте",
+    "price": 350,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Мидии в сливочно-сырном соусе",
+    "price": 790,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Разливное пиво на кранах",
+    "price": 390,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Суп \"Похмельный\"",
+    "price": 490,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]
