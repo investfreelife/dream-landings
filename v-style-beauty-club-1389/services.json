@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Расслабляющий массаж всего тела",
+    "price": 3300,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание (средняя длина)",
+    "price": 7000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Smart-педикюр с покрытием",
+    "price": 3500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Придание оттенка (короткие волосы)",
+    "price": 5500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Стрижка с укладкой",
+    "price": 3500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Уход для восстановления волос от JOICO (длинные волосы)",
+    "price": 6000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

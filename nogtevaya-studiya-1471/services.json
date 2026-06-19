@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Маникюр с покрытием гель лака",
+    "price": 2500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Фруктовый педикюр",
+    "price": 4000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Наращивание ногтей",
+    "price": 5000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Укрепление ногтей гель покрытием френч",
+    "price": 3600,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Наращивание одного ногтя",
+    "price": 500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Маникюр детский",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Маникюр мужской",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Маникюр женский",
+    "price": 1200,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": 1410,
+  "slug": "smayl-1410",
+  "name": "Смайл",
+  "phone": "+7 499 497-32-01",
+  "phone_display": "+7 499 497-32-01",
+  "address": "улица Свободы, 34",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/smayl/158990253109/",
+  "rating": 4.9,
+  "reviews_count": 36,
+  "ratings_count": 65,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8434608,
+    "lon": 37.4557787
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Смайл — Салоны красоты в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T05:38:13",
+  "completeness_score": 0.75
+}

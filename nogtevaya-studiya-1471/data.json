@@ -1,0 +1,86 @@
+{
+  "id": 1471,
+  "slug": "nogtevaya-studiya-1471",
+  "name": "Ногтевая Студия",
+  "phone": "+7 495 6410608",
+  "phone_display": "+7 495 6410608",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/zvezda/55373827141/",
+  "rating": 4.8,
+  "reviews_count": 22,
+  "ratings_count": 22,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6546274,
+    "lon": 37.4164628
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Ногтевая Студия — Салоны красоты в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Маникюр с покрытием гель лака",
+      "price": 2500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Фруктовый педикюр",
+      "price": 4000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Наращивание ногтей",
+      "price": 5000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Укрепление ногтей гель покрытием френч",
+      "price": 3600,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Наращивание одного ногтя",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Маникюр детский",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Маникюр мужской",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Маникюр женский",
+      "price": 1200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 8,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T05:40:26",
+  "completeness_score": 0.9
+}

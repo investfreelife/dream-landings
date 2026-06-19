@@ -1,0 +1,74 @@
+{
+  "id": 1389,
+  "slug": "v-style-beauty-club-1389",
+  "name": "V-style beauty club",
+  "phone": "+7 985 7830308",
+  "phone_display": "+7 985 7830308",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/vstyle_beauty_club/232466317304/",
+  "rating": 5.0,
+  "reviews_count": 97,
+  "ratings_count": 115,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7697519,
+    "lon": 37.6368519
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "V-style beauty club — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Расслабляющий массаж всего тела",
+      "price": 3300,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание (средняя длина)",
+      "price": 7000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Smart-педикюр с покрытием",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Придание оттенка (короткие волосы)",
+      "price": 5500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стрижка с укладкой",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Уход для восстановления волос от JOICO (длинные волосы)",
+      "price": 6000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 6,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T05:32:57",
+  "completeness_score": 0.9
+}
