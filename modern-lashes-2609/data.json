@@ -1,0 +1,56 @@
+{
+  "id": 2609,
+  "slug": "modern-lashes-2609",
+  "name": "Modern Lashes",
+  "phone": "+7 977 7501411",
+  "phone_display": "+7 977 7501411",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/modern_lashes/191736783265/",
+  "rating": 4.9,
+  "reviews_count": 17,
+  "ratings_count": 21,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7587834,
+    "lon": 37.6082531
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Modern Lashes — Салоны красоты в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Наращивание ресниц 3D",
+      "price": 6500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Наращивание ресниц 2D",
+      "price": 5500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Наращивание ресниц 1D",
+      "price": 4500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 3,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T13:44:32",
+  "completeness_score": 0.9
+}

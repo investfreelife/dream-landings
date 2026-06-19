@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Наращивание ресниц 3D",
+    "price": 6500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Наращивание ресниц 2D",
+    "price": 5500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Наращивание ресниц 1D",
+    "price": 4500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

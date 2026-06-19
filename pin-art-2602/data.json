@@ -1,0 +1,37 @@
+{
+  "id": 2602,
+  "slug": "pin-art-2602",
+  "name": "Пин Арт",
+  "phone": "+7 925 6223736",
+  "phone_display": "+7 925 6223736",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/pin_art/142200366109/",
+  "rating": 4.4,
+  "reviews_count": 5,
+  "ratings_count": 12,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7311866,
+    "lon": 37.6254031
+  },
+  "photos_count": 8,
+  "photos_downloaded": 8,
+  "description_short": "Пин Арт — Салоны красоты в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T13:42:16",
+  "completeness_score": 0.75
+}
