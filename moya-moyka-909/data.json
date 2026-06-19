@@ -1,0 +1,37 @@
+{
+  "id": 909,
+  "slug": "moya-moyka-909",
+  "name": "Моя Мойка",
+  "phone": "+7 916 0293111",
+  "phone_display": "+7 916 0293111",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автомойки",
+  "yandex_url": "https://yandex.ru/maps/org/moya_moyka/1703697712/",
+  "rating": 4.7,
+  "reviews_count": 499,
+  "ratings_count": 1155,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6232166,
+    "lon": 37.7305109
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Моя Мойка — Автомойки в Москве, рейтинг 4.7",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T02:39:15",
+  "completeness_score": 0.75
+}

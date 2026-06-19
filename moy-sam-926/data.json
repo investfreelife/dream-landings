@@ -1,0 +1,62 @@
+{
+  "id": 926,
+  "slug": "moy-sam-926",
+  "name": "Мой сам",
+  "phone": "+7 916 9538573",
+  "phone_display": "+7 916 9538573",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автомойки",
+  "yandex_url": "https://yandex.ru/maps/org/moy_sam/208939773321/",
+  "rating": 4.9,
+  "reviews_count": 1278,
+  "ratings_count": 3028,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7804709,
+    "lon": 37.7132696
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Мой сам — Автомойки в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Пена (Дневное время 07:00-24:00)",
+      "price": 45,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Активная Химия (Дневное время 07:00-24:00)",
+      "price": 45,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Вода (Дневное время 07:00-24:00)",
+      "price": 35,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 4,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T02:41:50",
+  "completeness_score": 0.9
+}

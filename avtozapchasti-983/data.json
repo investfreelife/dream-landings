@@ -1,0 +1,56 @@
+{
+  "id": 983,
+  "slug": "avtozapchasti-983",
+  "name": "Автозапчасти",
+  "phone": "+7 910 419-35-42",
+  "phone_display": "+7 910 419-35-42",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автозапчасти",
+  "yandex_url": "https://yandex.ru/maps/org/ar_parts/10641190771/",
+  "rating": 4.9,
+  "reviews_count": 151,
+  "ratings_count": 349,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6918795,
+    "lon": 37.6034263
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Автозапчасти — Автозапчасти в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Стартер Форд Фокус-1 1.8-2.0 оригинал",
+      "price": 1990,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Капот Форд Фокус-2+ Тайвань 08-11'",
+      "price": 5690,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бампер передний Форд Фокус-2+ 08-11' оригинал",
+      "price": 6790,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 3,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T02:49:22",
+  "completeness_score": 0.9
+}

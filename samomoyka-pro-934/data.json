@@ -1,0 +1,37 @@
+{
+  "id": 934,
+  "slug": "samomoyka-pro-934",
+  "name": "Самомойка Pro",
+  "phone": "+7 958 1002964",
+  "phone_display": "+7 958 1002964",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автомойки",
+  "yandex_url": "https://yandex.ru/maps/org/samomoyka_pro/215328069719/",
+  "rating": 4.3,
+  "reviews_count": 436,
+  "ratings_count": 961,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8487564,
+    "lon": 37.6175411
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Самомойка Pro — Автомойки в Москве, рейтинг 4.3",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T02:45:50",
+  "completeness_score": 0.75
+}
