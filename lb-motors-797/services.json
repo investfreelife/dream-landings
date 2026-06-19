@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Замена масел",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Покраска кузовных элементов",
+    "price": 7000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "заправка кондиционера автомобиля",
+    "price": 2000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "выкуп автомобилей не на ходу",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "выкуп поломанных автомобилей",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Замена лобовых стёкл автомобиля",
+    "price": 2000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Кузовной ремонт",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Ремонт трещин лобового стекла автомобиля",
+    "price": 990,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

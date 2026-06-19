@@ -1,0 +1,44 @@
+{
+  "id": 775,
+  "slug": "sto-775",
+  "name": "СТО",
+  "phone": "+7 495 9728239",
+  "phone_display": "+7 495 9728239",
+  "address": null,
+  "city": "Химки",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/jni_motors/7002701302/",
+  "rating": 5.0,
+  "reviews_count": 1054,
+  "ratings_count": 1572,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8948774,
+    "lon": 37.407638
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "СТО — Автосервисы в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "замена масла в двигателе",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 1,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T01:47:41",
+  "completeness_score": 0.9
+}

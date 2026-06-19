@@ -1,0 +1,92 @@
+{
+  "id": 797,
+  "slug": "lb-motors-797",
+  "name": "ЛБ Моторс",
+  "phone": "+7 (926) 982-41-98",
+  "phone_display": "+7 (926) 982-41-98",
+  "address": "Химки, улица Пожарского, 30Б",
+  "city": "Химки",
+  "metro_nearest": null,
+  "niche": "Автосервисы",
+  "yandex_url": "https://yandex.ru/maps/org/lb_motors/25969364807/",
+  "rating": 4.9,
+  "reviews_count": 137,
+  "ratings_count": 292,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8904421,
+    "lon": 37.4883176
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "ЛБ Моторс — Автосервисы в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Замена масел",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Покраска кузовных элементов",
+      "price": 7000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "заправка кондиционера автомобиля",
+      "price": 2000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "выкуп автомобилей не на ходу",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "выкуп поломанных автомобилей",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Замена лобовых стёкл автомобиля",
+      "price": 2000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Кузовной ремонт",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ремонт трещин лобового стекла автомобиля",
+      "price": 990,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 9,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T01:49:36",
+  "completeness_score": 0.9
+}
