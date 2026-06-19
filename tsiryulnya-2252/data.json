@@ -1,0 +1,68 @@
+{
+  "id": 2252,
+  "slug": "tsiryulnya-2252",
+  "name": "Цирюльня",
+  "phone": "+74954345600",
+  "phone_display": "+74954345600",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/tsiryulnya/196389068111/",
+  "rating": 5.0,
+  "reviews_count": 125,
+  "ratings_count": 153,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6545915,
+    "lon": 37.4844371
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Цирюльня — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "стрижка машинкой,1 насадка",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Детская стрижка",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Моделирование бороды",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стрижка машинкой,несколько насадок",
+      "price": 800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 5,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T09:27:17",
+  "completeness_score": 0.9
+}

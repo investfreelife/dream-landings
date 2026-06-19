@@ -1,0 +1,32 @@
+[
+  {
+    "name": "стрижка машинкой,1 насадка",
+    "price": 500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Детская стрижка",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Моделирование бороды",
+    "price": 1000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Стрижка машинкой,несколько насадок",
+    "price": 800,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]
