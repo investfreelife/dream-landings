@@ -1,0 +1,37 @@
+{
+  "id": 2216,
+  "slug": "imperiya-solntsa-2216",
+  "name": "Империя солнца",
+  "phone": "+7 495 7280471",
+  "phone_display": "+7 495 7280471",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/studiya_zagara_imperiya_solntsa/1043214446/",
+  "rating": 4.2,
+  "reviews_count": 7,
+  "ratings_count": 11,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8036845,
+    "lon": 37.5353664
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Империя солнца — Салоны красоты в Москве, рейтинг 4.2",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T08:48:00",
+  "completeness_score": 0.75
+}
