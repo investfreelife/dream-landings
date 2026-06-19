@@ -1,0 +1,37 @@
+{
+  "id": 2494,
+  "slug": "okay-wake-up-2494",
+  "name": "Okay, wake up!",
+  "phone": "+7 499 3723724",
+  "phone_display": "+7 499 3723724",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/okaywakeup/1696447745/",
+  "rating": 5.0,
+  "reviews_count": 467,
+  "ratings_count": 644,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7362927,
+    "lon": 37.5231032
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Okay, wake up! — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T12:21:48",
+  "completeness_score": 0.75
+}
