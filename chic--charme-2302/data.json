@@ -1,0 +1,98 @@
+{
+  "id": 2302,
+  "slug": "chic--charme-2302",
+  "name": "Chic & Charme",
+  "phone": "+7 499 3942888",
+  "phone_display": "+7 499 3942888",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/chic_charme/75298158009/",
+  "rating": 4.8,
+  "reviews_count": 374,
+  "ratings_count": 586,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7652166,
+    "lon": 37.5638593
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Chic & Charme — Салоны красоты в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Маникюр+выравнивание+покрытие+снятие",
+      "price": 3700,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Маникюр + снятие + покрытие гель-лак",
+      "price": 3200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Педикюр+ покрытие гель-лак +снятие",
+      "price": 4100,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Педикюр + покрытие гель-лак+френч",
+      "price": 4400,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Наращивание ногтей+маникюр+покрытие гель-лак",
+      "price": 5500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Художественное окрашивание длина ниже лопаток (входит осветление)",
+      "price": 11000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Укладка волос-кудри (Фен/Стайлер)",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Укладка волос-выпрямление(Фен/Стайлер)",
+      "price": 2500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стрижка с укладкой и мытьем (ниже лопаток)",
+      "price": 5000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стрижка с укладкой и мытьем (до лопаток)",
+      "price": 4000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 10,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T09:50:32",
+  "completeness_score": 0.9
+}
