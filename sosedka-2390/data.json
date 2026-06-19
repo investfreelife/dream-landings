@@ -1,0 +1,37 @@
+{
+  "id": 2390,
+  "slug": "sosedka-2390",
+  "name": "Sosedka",
+  "phone": "+7 495 7890020",
+  "phone_display": "+7 495 7890020",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/sosedka/70486657599/",
+  "rating": 4.5,
+  "reviews_count": 174,
+  "ratings_count": 349,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6708221,
+    "lon": 37.5387382
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Sosedka — Салоны красоты в Москве, рейтинг 4.5",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T10:45:47",
+  "completeness_score": 0.75
+}
