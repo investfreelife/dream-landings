@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Vardex",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Lounge For You",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бутик бытовых услуг",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Московский Кредитный банк",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Показать все места",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

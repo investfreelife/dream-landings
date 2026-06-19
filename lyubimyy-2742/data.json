@@ -1,0 +1,68 @@
+{
+  "id": 2742,
+  "slug": "lyubimyy-2742",
+  "name": "Любимый",
+  "phone": "+7 499 2610113",
+  "phone_display": "+7 499 2610113",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/lyubimy/1376931514/",
+  "rating": 4.2,
+  "reviews_count": 75,
+  "ratings_count": 285,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.770079,
+    "lon": 37.6655477
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Любимый — Салоны красоты в Москве, рейтинг 4.2",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Vardex",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Lounge For You",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бутик бытовых услуг",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Московский Кредитный банк",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Показать все места",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 5,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T16:11:51",
+  "completeness_score": 0.9
+}
