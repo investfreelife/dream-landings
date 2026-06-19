@@ -1,0 +1,37 @@
+{
+  "id": 826,
+  "slug": "moyka-na-baze-826",
+  "name": "Мойка на базе",
+  "phone": "+7 962 9146777",
+  "phone_display": "+7 962 9146777",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автомойки",
+  "yandex_url": "https://yandex.ru/maps/org/moyka_na_baze/134937148332/",
+  "rating": 4.7,
+  "reviews_count": 249,
+  "ratings_count": 449,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7627872,
+    "lon": 37.7276754
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Мойка на базе — Автомойки в Москве, рейтинг 4.7",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T02:14:48",
+  "completeness_score": 0.75
+}

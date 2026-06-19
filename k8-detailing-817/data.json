@@ -1,0 +1,62 @@
+{
+  "id": 817,
+  "slug": "k8-detailing-817",
+  "name": "K8 detailing",
+  "phone": "+7 495 7782167",
+  "phone_display": "+7 495 7782167",
+  "address": "Москва, Лодочная улица, 2",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автомойки",
+  "yandex_url": "https://yandex.ru/maps/org/k8deteyling/70143675988/",
+  "rating": 4.9,
+  "reviews_count": 267,
+  "ratings_count": 468,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8367389,
+    "lon": 37.4422898
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "K8 detailing — Автомойки в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Антикоррозийная обработка автомобиля",
+      "price": 34000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шумоизоляция колесных арок и локкеров 4 шт..",
+      "price": 30000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Антибактериальная обработка вентиляционной системы салона автомобиля озоногенератором Ozonbox air-10",
+      "price": 4000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 4,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T02:11:32",
+  "completeness_score": 0.9
+}

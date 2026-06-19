@@ -1,0 +1,37 @@
+{
+  "id": 892,
+  "slug": "akvamarin-892",
+  "name": "Аквамарин",
+  "phone": "+7 905 7698878",
+  "phone_display": "+7 905 7698878",
+  "address": "3-й Силикатный проезд, 1 к1",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автомойки",
+  "yandex_url": "https://yandex.ru/maps/org/akvamarin/42511225772/",
+  "rating": 4.2,
+  "reviews_count": 120,
+  "ratings_count": 236,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7680287,
+    "lon": 37.4965229
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Аквамарин — Автомойки в Москве, рейтинг 4.2",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T02:26:15",
+  "completeness_score": 0.75
+}
