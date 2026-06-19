@@ -1,0 +1,740 @@
+{
+  "id": 2475,
+  "slug": "na-serebryanom-2475",
+  "name": "На Серебряном",
+  "phone": "+7 495 6099048",
+  "phone_display": "+7 495 6099048",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/u_ushchelya_dardanelly/41637467226/",
+  "rating": 4.4,
+  "reviews_count": 418,
+  "ratings_count": 1007,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7510358,
+    "lon": 37.5935653
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "На Серебряном — Салоны красоты в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Голубцы",
+      "price": 320,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Плов со свининой",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Капуста тушеная со свининой",
+      "price": 210,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Пельмени домашние",
+      "price": 210,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Вареники с картофелем домашние",
+      "price": 160,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Вареники с капустой домашние",
+      "price": 160,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Вареники с творогом",
+      "price": 200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Рыба \"По-царски\"",
+      "price": 320,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Жаркое по-домашнему в горшочке",
+      "price": 370,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Домляма с говядиной",
+      "price": 360,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Картофель жареный с вешенками",
+      "price": 260,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Папоротник тушеный со свининой",
+      "price": 250,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Курица отбивная с картофелем",
+      "price": 360,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Курица тушеная в сливках",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Яйцо жареное",
+      "price": 50,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Омлет",
+      "price": 200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Омлет с колбасой",
+      "price": 250,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шашлык",
+      "price": 400,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мясо \"По-купечески\"",
+      "price": 280,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бефстроганофф из говядины",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Поджарка из свинины",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Котлеты из свинины",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бризоль",
+      "price": 260,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Колбаса жареная",
+      "price": 160,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ветчина жареная",
+      "price": 160,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Печень говяжья тушеная",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Желудки куриные под сметанным соусом",
+      "price": 210,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикаты \"Пельмени мясные\"",
+      "price": 490,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Пельмени со свининой и говядиной\"",
+      "price": 560,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"пельмени \"Купеческие\"",
+      "price": 370,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Вареники с картофелем\"",
+      "price": 340,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Вареники с капустой\"",
+      "price": 340,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Вареники с творогом\"",
+      "price": 530,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Колдуны\"",
+      "price": 370,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Голубцы\"",
+      "price": 480,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Колбаски для жарки\"",
+      "price": 690,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Фрикадельки из свинины\"",
+      "price": 580,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Ёжики \"",
+      "price": 510,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат \"Котлеты из свинины\"",
+      "price": 560,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Блины с ветчиной и сыром",
+      "price": 740,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Блины с мясом и рисом",
+      "price": 720,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Блины с печенью и рисом",
+      "price": 610,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Блины с творогом",
+      "price": 720,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Котлеты из говядины",
+      "price": 690,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Котлеты из кальмара",
+      "price": 840,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Отбивная куриная с сыром и помидорами",
+      "price": 740,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Фрикадельки из говядины",
+      "price": 740,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Самса со свининой",
+      "price": 480,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Самса с курицей",
+      "price": 480,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Чебуречки со свининой",
+      "price": 480,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Бифштекс свиной",
+      "price": 490,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Вареники с картофелем и шкварками",
+      "price": 370,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Полуфабрикат Манты свинина/говядина",
+      "price": 580,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Свежесть\"",
+      "price": 170,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Осенний\"",
+      "price": 170,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Витаминный\"",
+      "price": 170,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Неаполитанский\"",
+      "price": 240,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат из моркови с чесноком и сыром",
+      "price": 150,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Бордо\"",
+      "price": 170,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Винегрет\"",
+      "price": 170,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Крикливая курица\"",
+      "price": 260,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Цезарь\"",
+      "price": 350,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Мужской каприз\"",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Гурман\"",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Матадор\"",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Аппетитный\"",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Оливье\"",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Рандеву\"",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Барский\"",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Сельдь под шубой\"",
+      "price": 230,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Нежный\"",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат из кальмара",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Изобилие вкуса\"",
+      "price": 320,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Нептун\"",
+      "price": 370,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат \"Маяк\"",
+      "price": 320,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Блины",
+      "price": 110,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Блины фаршированные мясом и рисом",
+      "price": 160,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Блины фаршированные творогом",
+      "price": 160,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сосиска в блинах",
+      "price": 130,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сырники со сметаной, медом, сгущенным молоком",
+      "price": 260,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Пирожок жареный с картофелем",
+      "price": 140,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Пирожок жареный с капустой",
+      "price": 140,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Пирожок жареный с яйцом и рисом",
+      "price": 140,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Пирожок жареный с печенью и рисом",
+      "price": 140,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Беляш",
+      "price": 170,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Пирожок \"Тройной\"",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Самса с курицей",
+      "price": 160,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Чебурек со свининой",
+      "price": 60,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Пян-се",
+      "price": 150,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Блины фаршированные вареным сгущенным молоком",
+      "price": 110,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ватрушка с творогом",
+      "price": 120,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ватрушка с повидлом",
+      "price": 120,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Самса со свининой",
+      "price": 160,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Борщ",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Суп с фрикадельками",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Суп гороховый",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрошка с уксусом",
+      "price": 260,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Лагман",
+      "price": 360,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Суп \"Солянка\"",
+      "price": 370,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бульон куриный с яйцом",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бульон куриный с лапшой и яйцом",
+      "price": 220,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шурпа с говядиной",
+      "price": 420,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Чай листовой в ассортименте",
+      "price": 150,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Чай черный, зеленый пакетированный",
+      "price": 60,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Кофе растворимый",
+      "price": 65,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Кофе зерновой",
+      "price": 150,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Компот из сухофруктов",
+      "price": 60,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Морс из ягод",
+      "price": 60,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Картофельное пюре",
+      "price": 110,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Рис отварной",
+      "price": 110,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Гречка отварная",
+      "price": 110,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Макароны отварные",
+      "price": 110,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сельдь в масле",
+      "price": 180,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Кальмар жареный",
+      "price": 270,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Яйцо под майонезом",
+      "price": 50,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Гостиница",
+      "price": 900,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Капуста маринованная с морковью",
+      "price": 175,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 117,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T11:55:57",
+  "completeness_score": 0.9
+}
