@@ -1,0 +1,37 @@
+{
+  "id": 1581,
+  "slug": "ivushka-1581",
+  "name": "Ивушка",
+  "phone": "+7 495 9226750",
+  "phone_display": "+7 495 9226750",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/ivushka/44052260490/",
+  "rating": 4.9,
+  "reviews_count": 36,
+  "ratings_count": 80,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7563904,
+    "lon": 37.5869665
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Ивушка — Салоны красоты в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T05:59:23",
+  "completeness_score": 0.75
+}

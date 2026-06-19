@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Мелирование I Сухаревская",
+    "price": 5500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Тонирование c окрашивание I Сухаревская",
+    "price": 2500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Тонирование без окрашивания волос I Сухаревская",
+    "price": 3000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Покрытие Shellak \"Френч\" I Сухаревская",
+    "price": 1200,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Депиляция: Колени I Сухаревская",
+    "price": 700,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Депиляция: Руки до локтя I Сухаревская",
+    "price": 1200,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Депиляция: Голени I Сухаревская",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бикини глубокое I Сухаревская",
+    "price": 2800,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Антицеллюлитное лифтинг - обертывание I Сухаревская",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Косметология / Чистки / I Сухаревская",
+    "price": 3500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]
