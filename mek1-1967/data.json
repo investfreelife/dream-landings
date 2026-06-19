@@ -1,0 +1,98 @@
+{
+  "id": 1967,
+  "slug": "mek1-1967",
+  "name": "Мек1",
+  "phone": "+7 495 5323538",
+  "phone_display": "+7 495 5323538",
+  "address": "12 с3",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/dom_krasoty_mek1/1781372587/",
+  "rating": 5.0,
+  "reviews_count": 306,
+  "ratings_count": 389,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7911505,
+    "lon": 37.5204959
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Мек1 — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Укладка коктейльная (на фен + стайлинг) - короткие",
+      "price": 2800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание корней",
+      "price": 5000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Турбо солярий 50р",
+      "price": 50,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бразильская попка",
+      "price": 4500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "ЛЮБОЙ массаж по телу 2500 р",
+      "price": 2500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Солярий AQUA breeze",
+      "price": 80,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Лазерная эпиляция СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ",
+      "price": 4900,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Коллагенарий солярий",
+      "price": 80,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мужской уход для лица",
+      "price": 4900,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 10,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T07:25:25",
+  "completeness_score": 0.9
+}

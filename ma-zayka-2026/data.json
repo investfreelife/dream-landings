@@ -1,0 +1,37 @@
+{
+  "id": 2026,
+  "slug": "ma-zayka-2026",
+  "name": "Ма Зайка",
+  "phone": "+7 495 1288060",
+  "phone_display": "+7 495 1288060",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/mozaika/1664687615/",
+  "rating": 5.0,
+  "reviews_count": 14866,
+  "ratings_count": 55387,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6781936,
+    "lon": 37.5656213
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Ма Зайка — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T07:35:53",
+  "completeness_score": 0.75
+}

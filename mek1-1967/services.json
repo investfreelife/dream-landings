@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Укладка коктейльная (на фен + стайлинг) - короткие",
+    "price": 2800,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание корней",
+    "price": 5000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Турбо солярий 50р",
+    "price": 50,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Бразильская попка",
+    "price": 4500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "ЛЮБОЙ массаж по телу 2500 р",
+    "price": 2500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Солярий AQUA breeze",
+    "price": 80,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Лазерная эпиляция СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕ",
+    "price": 4900,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Коллагенарий солярий",
+    "price": 80,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Мужской уход для лица",
+    "price": 4900,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]
