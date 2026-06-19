@@ -1,0 +1,37 @@
+{
+  "id": 2417,
+  "slug": "solyanaya-peschera-mineral-2417",
+  "name": "Соляная пещера Mineral",
+  "phone": "+7 999 9995022",
+  "phone_display": "+7 999 9995022",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/mineral/235613415873/",
+  "rating": 4.0,
+  "reviews_count": 7,
+  "ratings_count": 13,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.844172,
+    "lon": 37.4420232
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Соляная пещера Mineral — Салоны красоты в Москве, рейтинг 4.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T11:10:17",
+  "completeness_score": 0.75
+}
