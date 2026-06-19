@@ -1,0 +1,50 @@
+[
+  {
+    "name": "LIGHT шлифовка лица",
+    "price": 10000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Коктейль \"Монако\"",
+    "price": 25000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "3D омоложение лица и шеи",
+    "price": 22000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "4D омоложение лица Fotona",
+    "price": 20000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Rf лифтинг микроигольчатый VIVACE лицо",
+    "price": 21500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Rf лифтинг микроигольчатый VIVACE лицо+глаза",
+    "price": 29500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "RF лифтинг микроигольчатый VIVACE живот",
+    "price": 39500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "RF лифтинг микроигольчатый VIVACE колени",
+    "price": 15500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

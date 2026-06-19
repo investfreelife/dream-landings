@@ -1,0 +1,86 @@
+{
+  "id": 2384,
+  "slug": "gt-2384",
+  "name": "GT",
+  "phone": "+7 965 3282114",
+  "phone_display": "+7 965 3282114",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/gt/1360897724/",
+  "rating": 5.0,
+  "reviews_count": 111,
+  "ratings_count": 161,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7556693,
+    "lon": 37.6565006
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "GT — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "LIGHT шлифовка лица",
+      "price": 10000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Коктейль \"Монако\"",
+      "price": 25000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "3D омоложение лица и шеи",
+      "price": 22000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "4D омоложение лица Fotona",
+      "price": 20000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Rf лифтинг микроигольчатый VIVACE лицо",
+      "price": 21500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Rf лифтинг микроигольчатый VIVACE лицо+глаза",
+      "price": 29500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "RF лифтинг микроигольчатый VIVACE живот",
+      "price": 39500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "RF лифтинг микроигольчатый VIVACE колени",
+      "price": 15500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 8,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T10:33:38",
+  "completeness_score": 0.9
+}
