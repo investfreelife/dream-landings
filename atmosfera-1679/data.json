@@ -1,0 +1,37 @@
+{
+  "id": 1679,
+  "slug": "atmosfera-1679",
+  "name": "Атмосфера",
+  "phone": "+7 916 0017010",
+  "phone_display": "+7 916 0017010",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/atmosfera/137304027452/",
+  "rating": 4.9,
+  "reviews_count": 158,
+  "ratings_count": 332,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8399893,
+    "lon": 37.3778559
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Атмосфера — Салоны красоты в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T06:13:28",
+  "completeness_score": 0.75
+}

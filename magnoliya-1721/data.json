@@ -1,0 +1,104 @@
+{
+  "id": 1721,
+  "slug": "magnoliya-1721",
+  "name": "Магнолия",
+  "phone": "+7 499 1929048",
+  "phone_display": "+7 499 1929048",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/magnoliya/159908322659/",
+  "rating": 4.3,
+  "reviews_count": 333,
+  "ratings_count": 1210,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7749013,
+    "lon": 37.4802619
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Магнолия — Салоны красоты в Москве, рейтинг 4.3",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Бумага туалетная Папия ДеЛюкс Дольче Вита 4сл 4шт/уп",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Наггетсы Вязанка из индейки 250г",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Конфеты Красная шапочка вес",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шоколад Батончик с пом.нач.50г Бабаевский",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Чай Гринфилд Голден цейлон 100пак/2г",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Кофе Жардин Гватемала Атитлан раств.95г ст/б",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "БЗМЖ Сыр творож.Хохланд овощи-гриль 60% 140г",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сосиски Молочные по-черкизовски в/у 450г ЧМПЗ",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Колбаса Варшавская п/к 350г Черкизово",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шампунь Синергетик Максимальное питание и восстановление 400мл",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 11,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T06:22:42",
+  "completeness_score": 0.9
+}
