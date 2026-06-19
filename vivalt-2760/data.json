@@ -1,0 +1,37 @@
+{
+  "id": 2760,
+  "slug": "vivalt-2760",
+  "name": "Vivalt",
+  "phone": "+7 495 1350590",
+  "phone_display": "+7 495 1350590",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/vivalt_beauty_bar/65005759542/",
+  "rating": 4.1,
+  "reviews_count": 3,
+  "ratings_count": 7,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7617391,
+    "lon": 37.5937504
+  },
+  "photos_count": 8,
+  "photos_downloaded": 8,
+  "description_short": "Vivalt — Салоны красоты в Москве, рейтинг 4.1",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T16:30:45",
+  "completeness_score": 0.75
+}
