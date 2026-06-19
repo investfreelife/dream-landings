@@ -1,0 +1,37 @@
+{
+  "id": 2627,
+  "slug": "el-en-byuti-klab-2627",
+  "name": "Эл-Эн Бьюти Клаб",
+  "phone": "84951502061",
+  "phone_display": "84951502061",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/el_en_byuti_klab/1805029603/",
+  "rating": 4.5,
+  "reviews_count": 308,
+  "ratings_count": 623,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8494672,
+    "lon": 37.4427769
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Эл-Эн Бьюти Клаб — Салоны красоты в Москве, рейтинг 4.5",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T14:03:38",
+  "completeness_score": 0.75
+}
