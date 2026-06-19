@@ -1,0 +1,37 @@
+{
+  "id": 1234,
+  "slug": "avtotyaga-1234",
+  "name": "Автотяга",
+  "phone": "+7 495 0230345",
+  "phone_display": "+7 495 0230345",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Автозапчасти",
+  "yandex_url": "https://yandex.ru/maps/org/avtotyaga/144497998212/",
+  "rating": null,
+  "reviews_count": 83,
+  "ratings_count": 0,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7262824,
+    "lon": 37.3809841
+  },
+  "photos_count": 2,
+  "photos_downloaded": 2,
+  "description_short": "Автотяга — Автозапчасти в Москве",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T03:29:34",
+  "completeness_score": 0.4
+}

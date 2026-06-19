@@ -1,0 +1,37 @@
+{
+  "id": 1333,
+  "slug": "velina-1333",
+  "name": "Велина",
+  "phone": "+7 499 245-90-95",
+  "phone_display": "+7 499 245-90-95",
+  "address": "улица Доватора, 4/7",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/velina/1122275224/",
+  "rating": 4.4,
+  "reviews_count": 59,
+  "ratings_count": 112,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7243154,
+    "lon": 37.5693117
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Велина — Салоны красоты в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T03:40:53",
+  "completeness_score": 0.75
+}

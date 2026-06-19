@@ -1,0 +1,37 @@
+{
+  "id": 1340,
+  "slug": "faust-1340",
+  "name": "Фауст",
+  "phone": "+7 495 9785084",
+  "phone_display": "+7 495 9785084",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/faust/1046341786/",
+  "rating": 4.4,
+  "reviews_count": 59,
+  "ratings_count": 168,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7580135,
+    "lon": 37.713216
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Фауст — Салоны красоты в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T03:43:41",
+  "completeness_score": 0.6
+}
