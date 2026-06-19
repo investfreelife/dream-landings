@@ -1,0 +1,37 @@
+{
+  "id": 2346,
+  "slug": "beauty-apteka-2346",
+  "name": "Beauty Аптека",
+  "phone": "+7 999 9713611",
+  "phone_display": "+7 999 9713611",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/beauty_apteka/107053816187/",
+  "rating": 5.0,
+  "reviews_count": 301,
+  "ratings_count": 447,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8248817,
+    "lon": 37.5856214
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Beauty Аптека — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T10:14:25",
+  "completeness_score": 0.6
+}
