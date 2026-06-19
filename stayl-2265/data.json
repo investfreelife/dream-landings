@@ -1,0 +1,37 @@
+{
+  "id": 2265,
+  "slug": "stayl-2265",
+  "name": "Стайл",
+  "phone": "+7 495 9155636",
+  "phone_display": "+7 495 9155636",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/stayl/1046890680/",
+  "rating": 4.6,
+  "reviews_count": 129,
+  "ratings_count": 253,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.747055,
+    "lon": 37.6604274
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Стайл — Салоны красоты в Москве, рейтинг 4.6",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T09:36:16",
+  "completeness_score": 0.75
+}
