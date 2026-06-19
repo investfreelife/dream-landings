@@ -1,0 +1,37 @@
+{
+  "id": 2248,
+  "slug": "sanskrit-2248",
+  "name": "Sanskrit",
+  "phone": "+7 916 7014777",
+  "phone_display": "+7 916 7014777",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/sanskrit/1800699323/",
+  "rating": 5.0,
+  "reviews_count": 315,
+  "ratings_count": 438,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7472693,
+    "lon": 37.5885791
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Sanskrit — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T09:17:45",
+  "completeness_score": 0.75
+}

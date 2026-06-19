@@ -1,0 +1,37 @@
+{
+  "id": 2247,
+  "slug": "studiya-naraschivaniya-resnits-2247",
+  "name": "Студия наращивания ресниц",
+  "phone": "+7 966 1000015",
+  "phone_display": "+7 966 1000015",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/luna/243891011654/",
+  "rating": 4.8,
+  "reviews_count": 49,
+  "ratings_count": 57,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.759994,
+    "lon": 37.4092156
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Студия наращивания ресниц — Салоны красоты в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T09:15:24",
+  "completeness_score": 0.75
+}
