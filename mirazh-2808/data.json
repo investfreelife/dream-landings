@@ -1,0 +1,37 @@
+{
+  "id": 2808,
+  "slug": "mirazh-2808",
+  "name": "Мираж",
+  "phone": "+7 495 7592200",
+  "phone_display": "+7 495 7592200",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/mirazh_sinema/56433867269/",
+  "rating": 4.6,
+  "reviews_count": 1601,
+  "ratings_count": 4452,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8346836,
+    "lon": 37.3537597
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Мираж — Салоны красоты в Москве, рейтинг 4.6",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T17:40:47",
+  "completeness_score": 0.75
+}
