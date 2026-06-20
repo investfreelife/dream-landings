@@ -1,0 +1,37 @@
+{
+  "id": 2823,
+  "slug": "melanzh-2823",
+  "name": "Меланж",
+  "phone": "+7 495 6422751",
+  "phone_display": "+7 495 6422751",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/melanzh/94264592144/",
+  "rating": 5.0,
+  "reviews_count": 93,
+  "ratings_count": 204,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.845897,
+    "lon": 37.3705879
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Меланж — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T17:55:45",
+  "completeness_score": 0.75
+}
