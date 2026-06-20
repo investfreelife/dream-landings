@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Тотал Блонд",
+    "price": 3500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Мелирование",
+    "price": 4100,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание Аиртач",
+    "price": 7500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание Балаяж",
+    "price": 7500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание Шатуш",
+    "price": 7500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "id": 2898,
+  "slug": "mem-2898",
+  "name": "М.э.м",
+  "phone": "+7 495 6288450",
+  "phone_display": "+7 495 6288450",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/m_e_m_/79102219241/",
+  "rating": 4.8,
+  "reviews_count": 84,
+  "ratings_count": 130,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7614727,
+    "lon": 37.6233432
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "М.э.м — Салоны красоты в Москве, рейтинг 4.8",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Тотал Блонд",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мелирование",
+      "price": 4100,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание Аиртач",
+      "price": 7500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание Балаяж",
+      "price": 7500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание Шатуш",
+      "price": 7500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 6,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T19:44:14",
+  "completeness_score": 0.9
+}
