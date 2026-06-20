@@ -1,0 +1,86 @@
+{
+  "id": 2828,
+  "slug": "ok-2828",
+  "name": "OK",
+  "phone": "+7 963 6007733",
+  "phone_display": "+7 963 6007733",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/ok/100414369764/",
+  "rating": 5.0,
+  "reviews_count": 121,
+  "ratings_count": 161,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8085155,
+    "lon": 37.5270836
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "OK — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Омоложение кожи",
+      "price": 3000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стрижка мужская",
+      "price": 690,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Стрижка женская",
+      "price": 990,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание",
+      "price": 1600,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Педикюр с покрытием гель лак",
+      "price": 2890,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Подолог (педикюр)",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Маникюр с покрытием гель лак",
+      "price": 1990,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 8,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T18:09:55",
+  "completeness_score": 0.9
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Омоложение кожи",
+    "price": 3000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Стрижка мужская",
+    "price": 690,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Стрижка женская",
+    "price": 990,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание",
+    "price": 1600,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Педикюр с покрытием гель лак",
+    "price": 2890,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Подолог (педикюр)",
+    "price": 3500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Маникюр с покрытием гель лак",
+    "price": 1990,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]
