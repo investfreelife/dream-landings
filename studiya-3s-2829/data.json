@@ -1,0 +1,62 @@
+{
+  "id": 2829,
+  "slug": "studiya-3s-2829",
+  "name": "Студия 3s",
+  "phone": "+7 925 8940777",
+  "phone_display": "+7 925 8940777",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/studiya_3s/98073261416/",
+  "rating": 5.0,
+  "reviews_count": 186,
+  "ratings_count": 249,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7452871,
+    "lon": 37.6854725
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Студия 3s — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "TOTAL BLOND",
+      "price": 9000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание в тон Matrix Loreal",
+      "price": 4500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "SMART педикюр женский",
+      "price": 2500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Маникюр мужской",
+      "price": 1500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 4,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T18:17:54",
+  "completeness_score": 0.9
+}

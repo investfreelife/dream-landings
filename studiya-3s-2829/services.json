@@ -1,0 +1,26 @@
+[
+  {
+    "name": "TOTAL BLOND",
+    "price": 9000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание в тон Matrix Loreal",
+    "price": 4500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "SMART педикюр женский",
+    "price": 2500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Маникюр мужской",
+    "price": 1500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]
