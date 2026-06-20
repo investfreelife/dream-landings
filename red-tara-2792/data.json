@@ -1,0 +1,512 @@
+{
+  "id": 2792,
+  "slug": "red-tara-2792",
+  "name": "Red Tara",
+  "phone": "+7 968 5778999",
+  "phone_display": "+7 968 5778999",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/hookahplace_red_rose/11626906677/",
+  "rating": 5.0,
+  "reviews_count": 337,
+  "ratings_count": 519,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7375897,
+    "lon": 37.6201393
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Red Tara — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Пало Санто-Банан",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Жасмин-бузина",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ананас-лемонграсс",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Тибетская ромашка-помело",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ежевика гранат",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Манго-маракуйя",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Фуджи-сакура",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Персик-молочный улун",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Слива-рислинг",
+      "price": 450,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Черная смородина-вереск",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Левзея-клюква",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Клубника-ревень",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мандарин-пихта",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Манго-облепиха-хвоя",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Габа-копченая груша",
+      "price": 550,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Судак с чёрным рисом, кабачками и соусом из креветок",
+      "price": 1690,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Спинка лосося с брокколи и бобами эдамаме",
+      "price": 2390,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Кебаб из мраморной говядины с хумусом, соусом сацебели и йогуртом",
+      "price": 1390,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шаурма \"SAPIENS\"",
+      "price": 1490,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мозговая кость с мисо, яблоком и запечённой бриошью",
+      "price": 1290,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Пожарская котлета с картофельным крокетом и трюфелем",
+      "price": 1490,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Равиоли с уткой, шиитаке и фермерской сметаной",
+      "price": 1290,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Равиоли с судаком, кинзой и соусом том ям",
+      "price": 1290,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Филе дорадо с мисо велюте и маринованным фенхелем",
+      "price": 1690,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Зеленый салат с авокадо, кабачком, яблоком и апельсиновым соусом",
+      "price": 960,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат романо с соусом Цезарь",
+      "price": 820,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Тартар из говядины с чесночным айоли",
+      "price": 1290,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Запечённый камамбер с чатни из сезонных фруктов",
+      "price": 1290,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Stefan салат",
+      "price": 1100,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Вителло тоннато",
+      "price": 1290,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Салат с крабом, яблоком и сельдереем",
+      "price": 1990,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Лепешка роти с пармской ветчиной, козьим сыром и трюфелем",
+      "price": 1390,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Хумус с баклажаном, яйцом и соусом песто",
+      "price": 1190,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "ФХДЦ Юй Лан Сян",
+      "price": 1100,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Габа \"Высокогорная\" Гао Шань",
+      "price": 1200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Габа \"Бриллиант\"",
+      "price": 1300,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Да Хун Пао Жоу Гуй Хо Сян",
+      "price": 1300,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Те Гуань Инь SHQ",
+      "price": 1100,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Най Сян «Молочный улун»",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Жень Шень Ча Ван",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Деконструированный медовик с медовыми сотами и свежими ягодами",
+      "price": 920,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Павлова с клубникой и юдзу",
+      "price": 1090,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Яблочный пирог с миндалём, орехом пекан и кремом из фиников и кокосовой сгущёнки",
+      "price": 920,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Лаймовая меренга с эвкалиптом",
+      "price": 920,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Лимонно-базиликовый семифредо с супом из клубники",
+      "price": 1290,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Тарт татен из груши",
+      "price": 1190,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Картофельный драник с беконом, окороком и подкопченным сыром",
+      "price": 1290,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Брускетта с лососем и авокадо",
+      "price": 1490,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Сырники с домашним сезонным вареньем",
+      "price": 820,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Синнабон с солёной карамелью, пеканом и сливочной помадкой",
+      "price": 920,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бельгийская вафля с яйцом пашот и обжаренным беконом или слабосолёным лососем",
+      "price": 1020,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шен Мусульманин 2005",
+      "price": 1400,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шен Иу Дашу 2013",
+      "price": 1200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шу Старая Баньджань",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шу Мусульманин",
+      "price": 900,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Моли Хуа Ча",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Би Ло Чунь",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Лун Цзин",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Травяной сбор",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ку Тяо \"Гречичный\"",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Гречичный Кокос-Ваниль",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ошидзуси с тунцом/ 8 шт.",
+      "price": 1510,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ошидзуси с угрём/ 8 шт.",
+      "price": 1510,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ошидзуси с лососем/ 8 шт",
+      "price": 1510,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ролл Филадельфия с лососем",
+      "price": 1450,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Радуга краб / авокадо / тунец / лосось / креветка / угорь",
+      "price": 1750,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ролл Калифорния с крабом",
+      "price": 1350,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бульон со шпинатом и вонтонами из цыплёнка",
+      "price": 790,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Том ям с креветками и шиитаке",
+      "price": 1390,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Борщ от шефа с говяжьим ребром",
+      "price": 1090,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ролл лосось, гребешок, манго, авокадо, тобико",
+      "price": 1510,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ролл лосось, тунец, угорь",
+      "price": 1510,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Ролл угорь, лосось, тофу",
+      "price": 1590,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Дянь Хун",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Хун Цзин Ло \"Золотые улитки\"",
+      "price": 1400,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Вишня-малина-клубника",
+      "price": 800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Тропический",
+      "price": 800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Бай Му Дань",
+      "price": 1100,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Шоу Мэй",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 79,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-06-19T17:32:08",
+  "completeness_score": 0.9
+}
