@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Окрашивание в один тон - Безаммиачное окрашивание - Средние волосы",
+    "price": 5000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "AIRTOUCH Волос - средние",
+    "price": 11000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "AIRTOUCH Волос - длинные",
+    "price": 12800,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

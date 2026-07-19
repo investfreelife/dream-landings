@@ -1,0 +1,62 @@
+{
+  "id": 2915,
+  "slug": "haircolor-2915",
+  "name": "HairColor",
+  "phone": "+7 965 1175063",
+  "phone_display": "+7 965 1175063",
+  "address": "Москва, Большой Факельный переулок, 12",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/khair_kolor/156160953207/",
+  "rating": 5.0,
+  "reviews_count": 178,
+  "ratings_count": 238,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7416156,
+    "lon": 37.6640521
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "HairColor — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Окрашивание в один тон - Безаммиачное окрашивание - Средние волосы",
+      "price": 5000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "AIRTOUCH Волос - средние",
+      "price": 11000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "AIRTOUCH Волос - длинные",
+      "price": 12800,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 4,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T06:29:44",
+  "completeness_score": 0.9
+}
