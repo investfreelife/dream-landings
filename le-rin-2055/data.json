@@ -1,0 +1,37 @@
+{
+  "id": 2055,
+  "slug": "le-rin-2055",
+  "name": "Le Rin",
+  "phone": "+7 499 7254307",
+  "phone_display": "+7 499 7254307",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/le_rin/119393899359/",
+  "rating": 4.4,
+  "reviews_count": 63,
+  "ratings_count": 134,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.6213006,
+    "lon": 37.7588878
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Le Rin — Салоны красоты в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T07:56:57",
+  "completeness_score": 0.75
+}
