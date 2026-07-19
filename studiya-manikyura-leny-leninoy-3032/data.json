@@ -1,0 +1,37 @@
+{
+  "id": 3032,
+  "slug": "studiya-manikyura-leny-leninoy-3032",
+  "name": "Студия маникюра \"Лены Лениной\"",
+  "phone": "+7 499 1103199",
+  "phone_display": "+7 499 1103199",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/studiya_manikyura_leny_leninoy/77592067246/",
+  "rating": 4.9,
+  "reviews_count": 360,
+  "ratings_count": 420,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8505294,
+    "lon": 37.444185
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Студия маникюра \"Лены Лениной\" — Салоны красоты в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T08:46:20",
+  "completeness_score": 0.6
+}
