@@ -1,0 +1,37 @@
+{
+  "id": 3048,
+  "slug": "stilet-3048",
+  "name": "Stilet",
+  "phone": "+7 925 0116888",
+  "phone_display": "+7 925 0116888",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/stilet_nail_studio/129419191102/",
+  "rating": 4.9,
+  "reviews_count": 53,
+  "ratings_count": 71,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8481198,
+    "lon": 37.6292766
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Stilet — Салоны красоты в Москве, рейтинг 4.9",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T09:01:13",
+  "completeness_score": 0.75
+}
