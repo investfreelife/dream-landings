@@ -1,0 +1,98 @@
+{
+  "id": 3122,
+  "slug": "viki-style-3122",
+  "name": "Viki style",
+  "phone": "+7 499 134-70-00",
+  "phone_display": "+7 499 134-70-00",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/viki_stayl/1078590885/",
+  "rating": 4.5,
+  "reviews_count": 56,
+  "ratings_count": 113,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.682492,
+    "lon": 37.5445144
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Viki style — Салоны красоты в Москве, рейтинг 4.5",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Ультразвуковая чистка лица | Университет",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Механическая чистка лица | Университет",
+      "price": 4200,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Чистка лица + пилинг | Университет",
+      "price": 5000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Удаление жировика | Университет",
+      "price": 500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Гликелевый пилинг 30% | Университет",
+      "price": 2500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Миндальный пилинг 20% | Университет",
+      "price": 2000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Техника окрашивания: Шатуш, Балаяж, Аэртач, Вуаль | Университет",
+      "price": 4000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мелтинг (цветное тонирование) | Университет",
+      "price": 1000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Блондирование волос (супра) - средние волосы (от 15-25 см) | Университет",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Блондирование волос (супра) - длинные волосы (от 25-40 см) | Университет",
+      "price": 3500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 10,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T10:31:25",
+  "completeness_score": 0.9
+}
