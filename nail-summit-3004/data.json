@@ -1,0 +1,37 @@
+{
+  "id": 3004,
+  "slug": "nail-summit-3004",
+  "name": "Nail Summit",
+  "phone": "+7 916 8577550",
+  "phone_display": "+7 916 8577550",
+  "address": "Москва, Марксистская улица, 10 с1",
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/nail_summit/163851320172/",
+  "rating": 5.0,
+  "reviews_count": 102,
+  "ratings_count": 120,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.7397995,
+    "lon": 37.6568079
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Nail Summit — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T08:35:10",
+  "completeness_score": 0.75
+}
