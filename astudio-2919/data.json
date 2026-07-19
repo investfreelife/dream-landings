@@ -1,0 +1,68 @@
+{
+  "id": 2919,
+  "slug": "astudio-2919",
+  "name": "AStudio",
+  "phone": "+7 495 6092581",
+  "phone_display": "+7 495 6092581",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/sn_studio/233648753259/",
+  "rating": 5.0,
+  "reviews_count": 78,
+  "ratings_count": 82,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8038611,
+    "lon": 37.5822128
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "AStudio — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Натуральные волосы в срезе 52см - 60см 100гр №60 (Нейтральный блонд)",
+      "price": 14000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Натуральные волосы в срезе 52см - 60см 100гр №60 (Нейтральный блонд)",
+      "price": 13000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Натуральные волосы в срезе 55см 100гр №18 (Жемчужный блонд)",
+      "price": 13000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Эксклюзив! Натуральные волосы в срезе Детские 65см 2х50гр №2 (Некрашеный черный)",
+      "price": 12000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 5,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T06:51:24",
+  "completeness_score": 0.9
+}
