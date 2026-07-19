@@ -1,0 +1,37 @@
+{
+  "id": 2949,
+  "slug": "dzheyn-eyr-2949",
+  "name": "Джейн Эйр",
+  "phone": "+7 926 6809585",
+  "phone_display": "+7 926 6809585",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/nail_studio_djein_eir_studio/96813201930/",
+  "rating": 4.4,
+  "reviews_count": 33,
+  "ratings_count": 62,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8613221,
+    "lon": 37.5655255
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Джейн Эйр — Салоны красоты в Москве, рейтинг 4.4",
+  "description_long": null,
+  "social": {},
+  "services": [],
+  "services_count": 0,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T07:37:00",
+  "completeness_score": 0.75
+}
