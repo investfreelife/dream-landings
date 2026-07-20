@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Мелирование (длинные)",
+    "price": 14000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Мелирование (средние)",
+    "price": 12000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Мелирование (короткие)",
+    "price": 10000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Мелирование + тонирование (короткие)",
+    "price": 10000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание корней + вся длина (длинные)",
+    "price": 8500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Тонирование (длинные)",
+    "price": 8500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание корней + вся длина (средние)",
+    "price": 7500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Тонирование (средние)",
+    "price": 7000,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Окрашивание корней + вся длина (короткие)",
+    "price": 5500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Тонирование (короткие)",
+    "price": 5500,
+    "unit": "руб",
+    "source": "yandex_menu"
+  },
+  {
+    "name": "Посмотреть все товары и услуги",
+    "price": null,
+    "unit": "руб",
+    "source": "yandex_menu"
+  }
+]

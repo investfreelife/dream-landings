@@ -1,0 +1,104 @@
+{
+  "id": 3351,
+  "slug": "studiya-krasoty-3351",
+  "name": "Студия красоты",
+  "phone": "+7 915 1151234",
+  "phone_display": "+7 915 1151234",
+  "address": null,
+  "city": "Москва",
+  "metro_nearest": null,
+  "niche": "Салоны красоты",
+  "yandex_url": "https://yandex.ru/maps/org/provolosy/71242910706/",
+  "rating": 5.0,
+  "reviews_count": 130,
+  "ratings_count": 148,
+  "hours": {
+    "is_24_7": false,
+    "structured": {}
+  },
+  "geo": {
+    "lat": 55.8007654,
+    "lon": 37.5733361
+  },
+  "photos_count": 12,
+  "photos_downloaded": 12,
+  "description_short": "Студия красоты — Салоны красоты в Москве, рейтинг 5.0",
+  "description_long": null,
+  "social": {},
+  "services": [
+    {
+      "name": "Мелирование (длинные)",
+      "price": 14000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мелирование (средние)",
+      "price": 12000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мелирование (короткие)",
+      "price": 10000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Мелирование + тонирование (короткие)",
+      "price": 10000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание корней + вся длина (длинные)",
+      "price": 8500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Тонирование (длинные)",
+      "price": 8500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание корней + вся длина (средние)",
+      "price": 7500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Тонирование (средние)",
+      "price": 7000,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Окрашивание корней + вся длина (короткие)",
+      "price": 5500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Тонирование (короткие)",
+      "price": 5500,
+      "unit": "руб",
+      "source": "yandex_menu"
+    },
+    {
+      "name": "Посмотреть все товары и услуги",
+      "price": null,
+      "unit": "руб",
+      "source": "yandex_menu"
+    }
+  ],
+  "services_count": 11,
+  "features": [],
+  "enrichment_sources": [
+    "osm",
+    "yandex_maps"
+  ],
+  "enriched_at": "2026-07-19T21:50:32",
+  "completeness_score": 0.9
+}
